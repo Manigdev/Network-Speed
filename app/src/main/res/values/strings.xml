@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Dvara</string>
+    <string name="networkNotAvailable">No Internet Connection</string>
+    <string name="networkAvailable">Network Connected</string>
+    <string name="upload">Upload</string>
+    <string name="download">Download</string>
+    <string name="networkSpeed">Network Speed:</string>
+    <string name="networkSpeedUnit">Mbps</string>
+    <string name="enterMobileNumber">Enter Your Mobile Number</string>
+    <string name="searchText">Search Your Mobile Number</string>
+    <string name="submit">Submit</string>
+    <string name="time">Time:</string>
+    <string name="mobileNumberLabel">Mobile Number</string>
+    <string name="timeLabel">Time</string>
+</resources>
